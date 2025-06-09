@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+.item{
+    background-color: chocolate;
+    font-size: 1.5rem;
+    margin: 5px;
+}
+
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+
+.flex{
+    display: flex;
+}
